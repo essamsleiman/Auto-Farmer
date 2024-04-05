@@ -17,7 +17,11 @@ cd Auto-Farmer
 npm i
 ```
 
-**3. Run the demo** <br>
+
+**4. Download data** <br>
+[Apple Ripeness Levels Image Dataset](https://www.kaggle.com/datasets/davidhilton/apple-ripeness-levels-image-dataset?resource=download)
+
+**4. Run the demo** <br>
 
 ```bash
 # Demo
