@@ -1,4 +1,4 @@
-# Auto-Farmer
+# Auto-Farmer - EF Hackathon
 
 Automated visual detection and analysis solution for farmers 
 
