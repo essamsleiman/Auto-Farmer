@@ -28,3 +28,11 @@ npm i
 npm run dev
 
 ```
+
+# Presentation
+![My Image](images/img1.png)
+![My Image](images/img2.png)
+![My Image](images/img3.png)
+![My Image](images/img4.png)
+![My Image](images/img5.png)
+![My Image](images/img6.png)
